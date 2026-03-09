@@ -1,0 +1,16 @@
+[
+  {
+    "id": "158eefb8-5c89-413d-ab6b-d0e507fb1df0",
+    "name": "Ram",
+    "email": "ram@gmail.com",
+    "password": "$2b$10$qnuGHo5fS40M8SVByqHOOebyQU1vv/CJixoTZ4smyN.9RN0GMG12a",
+    "isLogin": true
+  },
+  {
+    "id": "5754c5e6-2e23-4c86-a11e-f9d3a9e6aac9",
+    "name": "RAM KUMAR",
+    "email": "ramkumar.developer01@gmail.com",
+    "password": "$2b$10$6YthXluBkrPbq6Bq6hU0Ye7nPunO/6mAutV4Hbi0V9UxAaABcTwB6",
+    "isLogin": true
+  }
+]

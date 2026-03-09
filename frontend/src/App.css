@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root{
+    --primary-color: oklch(98% 0.016 73.684);
+    --secondary-color: oklch(70.4% 0.191 22.216);
+    --accent-color: oklch(97.7% 0.017 320.058);
+    --green-color: oklch(79.2% 0.209 151.711);
+    --gray-color: oklch(21% 0.034 264.665);
+    --purple-color: oklch(45.2% 0.211 324.591);
+    --text-primary-color: oklch(12.9% 0.042 264.695);
+    --text-secondary-color: oklch(40.1% 0.17 325.612);
+    --text-accent-color: oklch(96.2% 0.059 95.617);
+}
